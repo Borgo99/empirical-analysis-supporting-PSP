@@ -4,7 +4,7 @@ This repository contains code for simulating and comparing various statistical t
 
 ## Overview
 
-1. **Main Notebook** (`statistical_simulation.ipynb`):
+1. **Main Notebook** (`empirical_analysis.ipynb`):
 
    - Demonstrates how to run the simulation study.
    - Compares standard hypothesis testing and other methods to the new PSP approach.
