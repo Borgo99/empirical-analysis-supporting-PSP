@@ -1,6 +1,6 @@
 # Empirical Analysis supporting PSP
 
-This repository contains code for simulating and comparing various statistical tests—most notably, a proposed _Practical Significance Threshold (PSP)_ method.
+This repository contains code for simulating and comparing various statistical tests, including a proposed _Practical Significance Probability (PSP)_ method.
 
 ## Overview
 
